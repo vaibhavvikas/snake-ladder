@@ -44,7 +44,6 @@ class Game:
         while True:
             for _, player in self.players.items():
                 if not player.get_win_status():
-                    print(player.play(self.dice, self.board))
                     if self.board.check_player_status(player.get_position()):
                         player.set_win_status()
                         self.add_winner(player.name)
