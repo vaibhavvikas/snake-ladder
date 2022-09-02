@@ -4,7 +4,7 @@ A python snake and ladder game for machine coding.
 
 
 * Free software: MIT license
-* Documentation: https://snake-ladder.readthedocs.io.
+* Documentation: https://vaibhavvikas.ml/snake-ladder/.
 
 
 ## Problem Statement

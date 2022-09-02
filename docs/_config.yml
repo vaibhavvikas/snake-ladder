@@ -6,17 +6,3 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 
-navigation:
-  - name: snake_ladder
-    link: ./
-  - name: Installation
-    link: ./installation.html
-  - name: Usage
-    link: ./usage.html
-  - name: Authors
-    link: ./authors.html
-  
-  - name: History
-    link: ./history.html
-  - name: Contributing
-    link: ./contributing.html

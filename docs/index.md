@@ -1,10 +1,11 @@
+**[Home](https://vaibhavvikas.github.io/) >> [Projects](https://vaibhavvikas.github.io/projects) >> Snake Ladder**
+
 ## Snake Ladder Game
 
 A python snake and ladder game for machine coding.
 
-
 * Free software: MIT license
-* Documentation: https://snake-ladder.readthedocs.io.
+* Documentation: https://vaibhavvikas.ml/snake-ladder/.
 
 
 ## Problem Statement
@@ -145,7 +146,7 @@ Game Over
 
 ## Credits
 
-This package was created with Cookiecutter_ and the `vaibhavvikas/cookiecutter-pypackage`_ project template.
+This package was created with Cookiecutter_ and the `vaibhavvikas/cookiecutter-pypackage` project template.
 
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`vaibhavvikas/cookiecutter-pypackage`: https://github.com/vaibhavvikas/cookiecutter-pypackage
+Cookiecutter: https://github.com/audreyr/cookiecutter
+`vaibhavvikas/cookiecutter-pypackage`: https://github.com/vaibhavvikas/cookiecutter-pypackage
