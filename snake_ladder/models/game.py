@@ -22,8 +22,6 @@ class Game:
         for player in players:
             self.players[player] = Player(player)
 
-        print(self.players)
-
     def set_snake_ladders(self, snakes, ladders):
         for snake in snakes:
             try:
